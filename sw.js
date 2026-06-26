@@ -1,10 +1,10 @@
-const CACHE_NAME = 'azhar-study-os-v1';
+const CACHE_NAME = 'Private-';
 const ASSETS = [
   './',
   './index.html',
   './manifest.webmanifest',
-  './icons/icon-192.png',
-  './icons/icon-512.png'
+  './icon-192.png',
+  './/icon-512.png'
 ];
 
 self.addEventListener('install', event => {
